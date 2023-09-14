@@ -1,0 +1,12 @@
+.heading-box{
+    background-color: rgb(209, 154, 73);
+    color: #ffffff;
+    padding: 5px;
+    border-color: black;
+    text-align: center;
+
+}
+body{
+    
+    background: linear-gradient(to right, rgb(218, 193, 157)15.6% ,rgb(201, 117, 61))
+}
